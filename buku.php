@@ -12,7 +12,7 @@
     ?>
     <div class="col-md-3">
         <div class="card">
-            <img src="buku/th.jpg" class="card-img-top">
+            <img src="a1.JFIF" class="card-img-top">
             <div class="card-body">
                 <h5 class="card-little"><?=$data_buku['nama_buku']?></h5>
                 <p class="card-text"><?=substr($data_buku['pengarang'], 0,20)?></p>
