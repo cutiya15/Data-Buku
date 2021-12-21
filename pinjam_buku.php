@@ -7,7 +7,7 @@
 <h2>Pinjam Buku</h2>
 <div class="rows">
     <div class="col-md-3">
-        <img src="buku.jpg" class="card-img-top">
+        <img src="a1.jpg" class="card-img-top">
     </div>
     <div class="col-md-3">
         <form action="masukkan_keranjang.php?id_buku=<?=$dt_buku['id_buku']?>" method="POST">
